@@ -1,0 +1,1 @@
+first open the .sh file and the do "python pp.py". then everything will be installed :D
